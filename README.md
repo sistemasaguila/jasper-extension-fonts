@@ -26,6 +26,6 @@ Custom fonts for jasper reports
 <dependency>
     <groupId>com.github.sistemasaguila</groupId>
     <artifactId>jasper-extension-fonts</artifactId>
-    <version>1.0</version>
+    <version>jasper-extension-fonts-1.0</version>
 </dependency>
 ```
